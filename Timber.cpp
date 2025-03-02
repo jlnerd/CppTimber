@@ -24,8 +24,8 @@ int main() {
     Sprite spriteBackground(textureBackground);
     Vector2f pos(0, 0);
     spriteBackground.setPosition(pos);
-g
-    //Create and open a window for the game
+    g
+            //Create and open a window for the game
     RenderWindow window(vm, "Timber!!!", sf::Style::Titlebar);
 
     while (window.isOpen()) {
