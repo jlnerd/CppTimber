@@ -4,6 +4,6 @@ message(VERBOSE "Executing update step for sfml")
 
 block(SCOPE_FOR VARIABLES)
 
-include("/Users/johnleonard/CLionProjects/Timber/cmake-build-debug/CMakeFiles/fc-tmp/sfml/sfml-gitupdate.cmake")
+include("/Users/johnleonard/CLionProjects/CppTimber/cmake-build-debug/CMakeFiles/fc-tmp/sfml/sfml-gitupdate.cmake")
 
 endblock()

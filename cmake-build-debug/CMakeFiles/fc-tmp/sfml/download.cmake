@@ -4,6 +4,6 @@ message(VERBOSE "Executing download step for sfml")
 
 block(SCOPE_FOR VARIABLES)
 
-include("/Users/johnleonard/CLionProjects/Timber/cmake-build-debug/CMakeFiles/fc-tmp/sfml/sfml-gitclone.cmake")
+include("/Users/johnleonard/CLionProjects/CppTimber/cmake-build-debug/CMakeFiles/fc-tmp/sfml/sfml-gitclone.cmake")
 
 endblock()
